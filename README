@@ -1,4 +1,7 @@
-ofxGraphicAssets, copyright Kimchi and Chips 2011
 
+# WARNING - DEPRECATED
+PLEASE USE https://github.com/elliotwoods/ofxAssets/ INSTEAD
+
+# Introduction 
 Creates global assets for images and fonts with c++ Map style access
 (some of this functionality is being introduced to ofImage for Android)
